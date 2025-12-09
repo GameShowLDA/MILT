@@ -1,0 +1,7 @@
+# ML models
+*.pt
+Backend/Inspection/*.pt
+
+# OpenCV libs
+*.dll
+external/OpenCV/lib/*.dll
